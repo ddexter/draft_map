@@ -1,0 +1,32 @@
+New England Patriots,23
+Indianapolis Colts,30
+Carolina Panthers,14
+Minnesota Vikings,12
+Tennessee Titans,32
+Houston Texans,29
+Denver Broncos,17
+Arizona Cardinals,1
+Cleveland Browns,27
+Pittsburgh Steelers,28
+Seattle Seahawks,4
+Jacksonville Jaguars,31
+San Diego Chargers,20
+New York Giants,6
+Atlanta Falcons,13
+Washington Redskins,8
+Kansas City Chiefs,18
+New York Jets,24
+Buffalo Bills,21
+Cincinnati Bengals,26
+Detroit Lions,10
+San Francisco 49ers,3
+Tampa Bay Buccaneers,16
+Miami Dolphins,22
+Chicago Bears,9
+Baltimore Ravens,25
+Oakland Raiders,19
+Philadelphia Eagles,7
+New Orleans Saints,15
+St. Louis Rams,2
+Dallas Cowboys,5
+Green Bay Packers,11
